@@ -1,0 +1,8 @@
+{
+  "name": "CimaNow",
+  "description": "CimaNow CloudStream repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/ahmed3167/CC/refs/heads/main/cima-now/plugins.json"
+  ]
+}
