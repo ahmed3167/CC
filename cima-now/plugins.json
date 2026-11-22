@@ -2,16 +2,16 @@
   {
     "url": "https://raw.githubusercontent.com/ahmed3167/CC/refs/heads/main/cima-now/CIMA-NOW",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "CimaNow",
     "internalName": "CimaNow",
     "authors": ["ahmed3167"],
     "description": "CimaNow provider",
-    "fileSize": 18189,
+    "fileSize": 23930,
     "repositoryUrl": "https://github.com/ahmed3167/CC",
     "language": "ar",
     "tvTypes": ["Movie", "TvSeries"],
     "apiVersion": 1,
-    "fileHash": "sha256-1e6bbf8716c8f6371bbc46a4ea08e01c5f423b4f3c72eb71a56e7c56dcac360f"
+    "fileHash": "sha256-7b147367321d2fdffa9bd8ff923b21037951f7ec3d2a87ff4a1f508d32c3d5e7"
   }
 ]
